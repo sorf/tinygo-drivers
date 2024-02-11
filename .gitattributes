@@ -1,0 +1,5 @@
+* eol=lf
+*.jpg eol=auto
+*.png eol=auto
+*.bin eol=auto
+*.uf2 eol=auto
